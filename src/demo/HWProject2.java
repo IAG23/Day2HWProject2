@@ -9,4 +9,7 @@ public class HWProject2 {
 	public void getData() {
 		
 	}
+	public void getDepartmentId() {
+		
+	}
 }
